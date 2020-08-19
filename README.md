@@ -1,2 +1,4 @@
-# Movie-Recommendation-Sysytem
-Movie Recommendation system with content based and rating based filtering
+# Movie-Recommendation-System
+Movie Recommendation System using Python and Flask
+Developed by
+-S Mallik Nayak
