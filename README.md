@@ -1,4 +1,3 @@
 # Movie-Recommendation-System
 Movie Recommendation System using Python and Flask
-Developed by
--S Mallik Nayak
+#Developed by Sarveswara Rao Kanduri
